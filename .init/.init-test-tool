@@ -1,0 +1,4 @@
+{
+    "command": "python test_db.py",
+    "working_directory": "/tmp/kavia/workspace/code-generation/simple-note-keeper-7689-7700/database"
+}

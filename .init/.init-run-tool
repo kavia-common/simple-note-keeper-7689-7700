@@ -1,0 +1,4 @@
+{
+    "command": "python init_db.py && cd db_visualizer && PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/tmp/kavia/workspace/code-generation/simple-note-keeper-7689-7700/database"
+}
